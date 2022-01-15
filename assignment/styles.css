@@ -1,0 +1,14 @@
+header {
+  background-color: #8b0000;
+  color: white;
+  text-align: center;
+}
+
+main {
+  background-color: #d3d3d3;
+}
+
+body {
+  background-image: url(record.png);
+  background-repeat: repeat;
+}
