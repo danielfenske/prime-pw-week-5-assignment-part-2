@@ -1,7 +1,6 @@
 header {
   background-color: #8b0000;
   color: white;
-  text-align: center;
 }
 
 main {
@@ -13,4 +12,29 @@ body {
   margin: 0;
   background-image: url(record.png);
   background-repeat: repeat;
+  background-position: center;
+}
+
+/* FONT STYLING */
+
+h1 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bolder;
+  font-size: 36px;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.shop-name {
+  font: normal small-caps normal 30px monospace;
+  text-align: center;
+}
+
+main h3 {
+  font: normal normal normal 20px monospace;
+}
+
+p, ol {
+  font: normal normal normal 14px Verdana;
 }
